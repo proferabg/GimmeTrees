@@ -1,0 +1,9 @@
+name: GimmeTrees
+version: 1.1
+api-version: 1.18
+authors: [proferabg]
+description: GimmeCraft Tree Feller
+main: com.probgtech.gt.GimmeTrees
+permissions:
+  gimmetrees.use:
+    default: true
